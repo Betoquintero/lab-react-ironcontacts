@@ -12,3 +12,46 @@ button.action-btn {
   color: white;
   margin-right: 10px;
 }
+
+.tableHeadings{
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.contacts{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 90%;
+  height: 30px;
+  
+}
+
+.contactImage {
+  width: 60px;
+  max-width: 60px;  
+}
+
+
+.contactName {
+  width: 140px;
+  
+  margin-left: 0px;
+  text-align: left;
+}
+
+.contactPopularity{
+  text-align: left;
+  text-align: left;
+}
+
+.contactOscar{
+  margin-left: 60px;
+
+}
+
+.contactEmmy{
+  margin-left: 40px;
+
+}
